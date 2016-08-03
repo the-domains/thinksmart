@@ -1,0 +1,14 @@
+layout_spectrum: 0.18382241833023727
+typography_spectrum: 0.17744525684975088
+color:
+  brandStrength: 0.3741606257390231
+  lightness: 0.8923301347531378
+  saturation: 0.6095534295309335
+  rhythmicContrast: 0.30301754525862634
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: ThinkSmart
